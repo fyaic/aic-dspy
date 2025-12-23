@@ -9,6 +9,7 @@
 在传统的开发中，你可能需要花费大量时间手动调整复杂的 Prompt（提示词字符串）。而在 DSPy 中，你通过编写 Python 代码来定义程序的逻辑（输入什么、输出什么），然后由 DSPy 的编译器（Optimizer）自动生成和优化最适合模型的 Prompt。
 
 *   **项目地址**: [https://github.com/stanfordnlp/dspy]
+*   Obsidian笔记：https://publish.obsidian.md/aic/%E6%96%AF%E5%9D%A6%E7%A6%8FDSPy+-+%E5%A3%B0%E6%98%8E%E5%BC%8F%E8%87%AA%E6%88%91%E4%BC%98%E5%8C%96python%EF%BC%88%E6%8C%87%E4%BB%A4%E5%B7%A5%E7%A8%8B%EF%BC%89
 
 ## 2. 核心方法论
 
